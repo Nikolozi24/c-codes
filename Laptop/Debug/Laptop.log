@@ -1,0 +1,11 @@
+﻿  Laptop.cpp
+C:\Users\PC\source\repos\Laptop\Laptop\Laptop.h(14,40): error C2059: syntax error: ')'
+C:\Users\PC\source\repos\Laptop\Laptop\Laptop.h(11,8): error C2143: syntax error: missing ')' before ';'
+C:\Users\PC\source\repos\Laptop\Laptop\Laptop.cpp(6,60): error C2059: syntax error: ')'
+C:\Users\PC\source\repos\Laptop\Laptop\Laptop.cpp(6,62): error C2143: syntax error: missing ')' before '{'
+C:\Users\PC\source\repos\Laptop\Laptop\Laptop.cpp(4,9): error C2533: 'Laptop::{ctor}': constructors not allowed a return type
+C:\Users\PC\source\repos\Laptop\Laptop\Laptop.cpp(6,62): error C2511: 'Laptop::Laptop(std::string,std::string,std::string,int,float,float,int,bool,float,float,float)': overloaded member function not found in 'Laptop'
+C:\Users\PC\source\repos\Laptop\Laptop\Laptop.h(8): message : see declaration of 'Laptop'
+  MotherBoard.cpp
+  Source.cpp
+  Generating Code...
